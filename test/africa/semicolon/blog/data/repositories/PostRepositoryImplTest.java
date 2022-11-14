@@ -64,4 +64,5 @@ class PostRepositoryImplTest {
         postRepository.delete(1);
         assertEquals(0L, postRepository.count());
     }
+
 }

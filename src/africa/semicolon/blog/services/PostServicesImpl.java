@@ -1,15 +1,18 @@
 package africa.semicolon.blog.services;
 
+import africa.semicolon.blog.data.models.Comment;
 import africa.semicolon.blog.data.models.Post;
 import africa.semicolon.blog.data.repositories.PostRepository;
-import africa.semicolon.blog.data.repositories.PostRepositoryImpl;
 import africa.semicolon.blog.dtos.requests.CreatePostRequest;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+@Service
 public class PostServicesImpl implements PostServices{
 
-    private PostRepository postRepository = new PostRepositoryImpl();
+    @Autowired
+    private PostRepository postRepository;
 
     @Override
     public void createPost(CreatePostRequest createPostRequest) {
@@ -20,22 +23,29 @@ public class PostServicesImpl implements PostServices{
     }
 
     @Override
-    public void updatedPost(int id, String title, String body) {
+    public void updatedPost(String id, String title, String body) {
 
     }
 
     @Override
-    public void deletePost(int id) {
+    public void deletePost(String id) {
 
     }
 
     @Override
-    public Post viewPost(int id) {
-        return postRepository.findById(id);
+    public Post viewPost(String id) {
+        return postRepository.findPostById(id);
     }
 
     @Override
     public List<Post> viewAllPost() {
         return postRepository.findAll();
+    }
+
+    @Override
+    public void addComment(String postId, Comment comment) {
+        Post savedPost = postRepository.findPostById(postId);
+        savedPost.getComments().add(comment);
+        postRepository.save(savedPost);
     }
 }

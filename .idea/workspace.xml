@@ -4,62 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4996dd34-f642-4e09-ba46-275e5b0a8bd1" name="Changes" comment="my commit">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_63.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_63.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_63.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/controllers/PostController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/africa/semicolon/blog/services/PostServicesImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4996dd34-f642-4e09-ba46-275e5b0a8bd1" name="Changes" comment="added changes">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_record_codec_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/controllers/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/dtos/requests/CreateCommentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/africa/semicolon/blog/services/CommentServicesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/models/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/models/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/models/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/CommentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/CommentRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/CommentRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/PostRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/repositories/PostRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/PostRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dtos/requests/CreatePostRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/dtos/requests/CreatePostRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/CommentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/CommentServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/CommentServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/CommentServicesImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/PostServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/PostServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/PostServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/PostServicesImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data/repositories/CommentRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/africa/semicolon/blog/data/repositories/CommentRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data/repositories/PostRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/africa/semicolon/blog/data/repositories/PostRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/controllers/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/controllers/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/data/models/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/models/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/data/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/models/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/CommentRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/data/repositories/PostRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/dtos/requests/CreatePostRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/dtos/requests/CreatePostRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/services/CommentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/CommentServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/services/CommentServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/CommentServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/services/PostServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/PostServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/africa/semicolon/blog/services/PostServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/africa/semicolon/blog/services/PostServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/africa/semicolon/blog/data/repositories/PostRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/africa/semicolon/blog/data/repositories/PostRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/africa/semicolon/blog/services/PostServicesImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/africa/semicolon/blog/services/PostServicesImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +46,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -116,28 +92,22 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="africa.semicolon.blog.services" />
       <recent name="services" />
       <recent name="data.repositories" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="africa.semicolon.blog.Main" />
-      <module name="blog" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommentRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CommentServicesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="africa.semicolon.blog.data.repositories.*" />
+          <option name="PATTERN" value="africa.semicolon.blog.services.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="data.repositories" />
-      <option name="MAIN_CLASS_NAME" value="africa.semicolon.blog.data.repositories.CommentRepositoryImplTest" />
+      <option name="PACKAGE_NAME" value="africa.semicolon.blog.services" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.blog.services.CommentServicesTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,6 +124,22 @@
       <option name="PACKAGE_NAME" value="services" />
       <option name="MAIN_CLASS_NAME" value="africa.semicolon.blog.services.PostServicesImplTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostServicesImplTest.addComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.blog.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.blog.services" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.blog.services.PostServicesImplTest" />
+      <option name="METHOD_NAME" value="addComment" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -192,8 +178,8 @@
         <item itemvalue="Spring Boot.Main" />
         <item itemvalue="JUnit.PostServicesImplTest" />
         <item itemvalue="JUnit.PostServicesImplTest.createPostTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.CommentRepositoryImplTest" />
+        <item itemvalue="JUnit.PostServicesImplTest.addComment" />
+        <item itemvalue="JUnit.CommentServicesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,8 +194,16 @@
       <workItem from="1668319376406" duration="8395000" />
       <workItem from="1668328952172" duration="2405000" />
       <workItem from="1668331506194" duration="12113000" />
-      <workItem from="1668347407871" duration="4180000" />
+      <workItem from="1668347407871" duration="25430000" />
     </task>
+    <task id="LOCAL-00001" summary="added changes">
+      <created>1668352734056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668352734056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,5 +219,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my commit" />
+    <MESSAGE value="added changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added changes" />
   </component>
 </project>
